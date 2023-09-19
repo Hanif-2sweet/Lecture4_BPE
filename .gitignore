@@ -13,6 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-Content\Characters\*
-Content\LevelPrototyping\*
-Content\__ExternalActors__\*c
+c
