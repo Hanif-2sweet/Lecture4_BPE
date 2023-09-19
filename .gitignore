@@ -12,6 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content\__ExternalActors__\*
+
 Content\Characters\*
 Content\LevelPrototyping\*
+Content\__ExternalActors__\*
